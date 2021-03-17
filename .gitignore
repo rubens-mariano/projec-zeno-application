@@ -28,5 +28,8 @@ target/
 nbproject/private/
 build/
 nbbuild/
-dist/
+dist/lib/
 nbdist/
+lib/Desenvolver/
+lib/CopyLibs/
+

@@ -64,9 +64,9 @@ public class Financeiro_Titulos {
         @Busca de envios de títulos por mês.
     */
     
-    public List<Financeiro_Titulos> monthlyShipmentsByEntity(Date initialDate, Date finalDate, String entityType, String shippingType) {
+    /*public List<Financeiro_Titulos> monthlyShipmentsByEntity(Date initialDate, Date finalDate, String entityType, String shippingType) {
         
-    }
+    }*/
     
     public void saveShipping(Date sendDate, String entity, Date initialIssue, Date finalIssue, String entityType, String shippingType, Integer totalDalays) {
         try {
